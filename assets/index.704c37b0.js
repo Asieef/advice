@@ -3391,8 +3391,8 @@ const qo = (...e) => {
 function Vo(e) {
   return Y(e) ? document.querySelector(e) : e;
 }
-const Jo = "/assets/pattern-divider-desktop.7d83d59a.svg",
-  Yo = "/assets/icon-dice.60cce3a8.svg",
+const Jo = "./assets/pattern-divider-desktop.7d83d59a.svg",
+  Yo = "./assets/icon-dice.60cce3a8.svg",
   Xo = (e, t) => {
     const n = e.__vccOpts || e;
     for (const [s, r] of t) n[s] = r;
